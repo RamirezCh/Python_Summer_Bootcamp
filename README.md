@@ -6,3 +6,8 @@ Lista de estudiantes
 3. Rafael Velarde
 4. Silvana Blanco
 5. Diego Gutierrez
+
+Lista de canciones
+1. Vacila
+2. 1 2 3
+3. Playita
